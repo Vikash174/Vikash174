@@ -1,6 +1,7 @@
 # Hi there, I'm Vikash Rai! 👋
 
-I'm a passionate React.js developer with a deep love for building interactive and user-friendly web applications. My professional journey in the world of web development started in 2022.
+My professional journey in the world of web development started in 2022. Previously I have worked with [TripStack](https://www.tripstack.com/). here I have worked on C# and Dot Net. 
+For new challenges, I started playing with JavaScript and React JS. After spending time with this tech stack I am loving it. Since then I have been learning and building awesome projects.
 
 ## 🚀 What I do:
 
@@ -12,10 +13,6 @@ I'm a passionate React.js developer with a deep love for building interactive an
 
 - **Collaboration:** Experienced in working with cross-functional teams, using version control systems like Git to ensure smooth collaboration.
 
-## 🌱 I'm currently learning:
-
-I'm always striving to stay on top of the latest trends and technologies in the React.js ecosystem. Currently, I'm diving deeper into React JS.
-
 ## 💻 My tech stack:
 
 - React.js
@@ -26,11 +23,10 @@ I'm always striving to stay on top of the latest trends and technologies in the 
 - Java
 
 ## 📫 Let's connect:
-
-- GitHub: [Vikash174](https://github.com/Vikash174)
+- Email: Raivikash174@gmail.com
 - LinkedIn: [Vikash Rai](https://www.linkedin.com/in/vikash-rai-b1a2111a4/)
 - Twitter: [@Vikash_174](https://twitter.com/Vikash_174)
 
-I'm always open to collaboration and new opportunities. Feel free to reach out if you want to discuss web development, React, or anything tech-related!
+Thanks for visiting my profile, I'm always open to collaboration and new opportunities. Feel free to reach out if you want to discuss web development, React, or anything tech-related!
 
 Happy coding! 🚀
