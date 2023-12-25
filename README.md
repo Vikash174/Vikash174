@@ -63,26 +63,24 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <code><a href = "https://docs.microsoft.com/en-us/dotnet/csharp/"><img height="40" src="https://www.codeguru.com/wp-content/uploads/2021/08/C-Sharp-Tutorials.png"></a></code>
 
  
- <br>
+<br>
 <be>
 <br>
 <br>
- <br>
 
 
 <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://pbs.twimg.com/profile_images/1545098208556097536/rKXaODLl_400x400.jpg"></a></code>
 <code><a href = "https://www.jetbrains.com/rider/"><img height="40" src="https://kudocode.me/wp-content/uploads/2019/05/rider-with-backgr.svg"></a></code>
 <br>
+<be>
+<br>
+<br>
+<code><a href = "https://www.json.org/json-en.html"><img height="40" src="https://velog.velcdn.com/images/olxtar/post/69f6e811-665e-44c6-baf9-58df0d358f3d/image.png"></a></code>
+<code><a href = "https://firebase.google.com/"><img height="40" src="https://firebase.google.com/images/social.png"></a></code>
 <br>
 <be>
 <br>
 <br>
-
-<code><a href = "https://www.json.org/json-en.html"><img height="40" src="https://velog.velcdn.com/images/olxtar/post/69f6e811-665e-44c6-baf9-58df0d358f3d/image.png"></a></code>
-<code><a href = "https://firebase.google.com/"><img height="40" src="https://firebase.google.com/images/social.png"></a></code>
-<br>
-
-
 
 <code><a href = "https://www.gnu.org/software/bash/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png"></a></code>
 </p>
