@@ -48,20 +48,35 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <code><img height="40" src="https://www.etatvasoft.com/insights/wp-content/uploads/2017/02/b-thumb-img9.jpg" alt="BootStrap"></code>
 
 <br>
+<be>
+<br>
+<br>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://static.wikia.nocookie.net/coding-help/images/0/02/174854.png/revision/latest?cb=20210514134203"></a></code>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></a></code>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://emaillistvalidation.com/blog/content/images/2023/10/JavaScript-Symbol-1.png"></a></code>
 
 <br>
+<be>
+<br>
+<br>
 <code><img height="40" src="https://oracle.gallerycdn.vsassets.io/extensions/oracle/oracle-java/1.0.0/1697630630487/Microsoft.VisualStudio.Services.Icons.Default"></a></code>
 <code><a href = "https://docs.microsoft.com/en-us/dotnet/csharp/"><img height="40" src="https://www.codeguru.com/wp-content/uploads/2021/08/C-Sharp-Tutorials.png"></a></code>
+
+ 
+ <br>
+<be>
 <br>
+<br>
+ <br>
 
 
 <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://pbs.twimg.com/profile_images/1545098208556097536/rKXaODLl_400x400.jpg"></a></code>
 <code><a href = "https://www.jetbrains.com/rider/"><img height="40" src="https://kudocode.me/wp-content/uploads/2019/05/rider-with-backgr.svg"></a></code>
 <br>
-
+<br>
+<be>
+<br>
+<br>
 
 <code><a href = "https://www.json.org/json-en.html"><img height="40" src="https://velog.velcdn.com/images/olxtar/post/69f6e811-665e-44c6-baf9-58df0d358f3d/image.png"></a></code>
 <code><a href = "https://firebase.google.com/"><img height="40" src="https://firebase.google.com/images/social.png"></a></code>
