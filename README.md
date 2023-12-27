@@ -9,7 +9,7 @@ I'm Vikash! I'm a **Software Engineer**:iphone:, looking to solve **real-world p
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Vikash_Rai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vikash-rai-b1a2111a4/)
 [![LeetCode](https://img.shields.io/badge/-Vikash_Rai-orange?style=flat&logo=Leetcode&logoColor=black)](https://leetcode.com/vikash_rai_55/)
-[![Twitter](https://img.shields.io/badge/-Vikash_174-white?style=flat&logo=Twitter&logoColor=blue)](https://www.hackerrank.com/vikash_174)
+[![Twitter](https://img.shields.io/badge/-Vikash_174-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/Vikash_174)
 [![Gmail](https://img.shields.io/badge/-vikash174@-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:raivikash174@gmail.com)
 
 
